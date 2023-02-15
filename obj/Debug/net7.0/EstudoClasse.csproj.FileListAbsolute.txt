@@ -1,0 +1,15 @@
+C:\Users\keepsimple.renato\projetos\EstudoClasse\bin\Debug\net7.0\EstudoClasse.exe
+C:\Users\keepsimple.renato\projetos\EstudoClasse\bin\Debug\net7.0\EstudoClasse.deps.json
+C:\Users\keepsimple.renato\projetos\EstudoClasse\bin\Debug\net7.0\EstudoClasse.runtimeconfig.json
+C:\Users\keepsimple.renato\projetos\EstudoClasse\bin\Debug\net7.0\EstudoClasse.dll
+C:\Users\keepsimple.renato\projetos\EstudoClasse\bin\Debug\net7.0\EstudoClasse.pdb
+C:\Users\keepsimple.renato\projetos\EstudoClasse\obj\Debug\net7.0\EstudoClasse.csproj.AssemblyReference.cache
+C:\Users\keepsimple.renato\projetos\EstudoClasse\obj\Debug\net7.0\EstudoClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keepsimple.renato\projetos\EstudoClasse\obj\Debug\net7.0\EstudoClasse.AssemblyInfoInputs.cache
+C:\Users\keepsimple.renato\projetos\EstudoClasse\obj\Debug\net7.0\EstudoClasse.AssemblyInfo.cs
+C:\Users\keepsimple.renato\projetos\EstudoClasse\obj\Debug\net7.0\EstudoClasse.csproj.CoreCompileInputs.cache
+C:\Users\keepsimple.renato\projetos\EstudoClasse\obj\Debug\net7.0\EstudoClasse.dll
+C:\Users\keepsimple.renato\projetos\EstudoClasse\obj\Debug\net7.0\refint\EstudoClasse.dll
+C:\Users\keepsimple.renato\projetos\EstudoClasse\obj\Debug\net7.0\EstudoClasse.pdb
+C:\Users\keepsimple.renato\projetos\EstudoClasse\obj\Debug\net7.0\EstudoClasse.genruntimeconfig.cache
+C:\Users\keepsimple.renato\projetos\EstudoClasse\obj\Debug\net7.0\ref\EstudoClasse.dll
